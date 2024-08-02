@@ -12,7 +12,7 @@ import cartRouter from "./routes/cartRoute.js"
 //app config
 
 const app = express()
-const port = 4002
+const port = 4003
 
 // middleware
 app.use(express.json())
